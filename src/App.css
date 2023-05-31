@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: powderblue;
+    width: 100%;
+    padding: 10px 0px;
+}
+
+nav {
+    background-color: powderblue;
+}
